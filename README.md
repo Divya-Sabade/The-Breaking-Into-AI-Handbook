@@ -41,6 +41,8 @@ You can learn by topics or create your own study plan using the reosurces. Here 
 # Learn by topic: AI Agents 
 * Articles:  
 * Videos:
+  * The Rise of Agentic Workflows in AI (Andrew Ng):https://www.youtube.com/watch?v=9mylj0ogCFY
+  * How AI Agents work (Vendasta): https://www.youtube.com/watch?v=UKU-LOTLvEA
 * Free Courses
   * AI Agents for Beginners (SimpliLearn): https://www.simplilearn.com/ai-agents-for-beginners-course-skillup
   * 
