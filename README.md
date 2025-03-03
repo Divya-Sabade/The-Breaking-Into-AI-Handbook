@@ -56,7 +56,7 @@ You can learn by topics or create your own study plan using the reosurces. Here 
 * Agent AI: Surveying the Horizons of Multimodal Interaction: https://arxiv.org/abs/2401.03568
 * LLM Multi-Agent Systems: Challenges and Open Problems:https://arxiv.org/abs/2402.03578
 
-# Additional Resources: Papers _(optional read)_
+# Path to learning AI Agents
 Level 1: Gen AI and RAG Foundations
 
 1. Introduction to Generative AI
@@ -117,7 +117,7 @@ Level 2: AI Agents Specialization
 - Building & Evaluating Advanced RAG Apps by DeepLearning.AI, LlamaIndex & TruEra
 - https://lnkd.in/dyMg8eV9
 
-  <img width="335" alt="image" src="https://github.com/user-attachments/assets/a582a261-7f62-408c-aee3-429c51f9af40" /> Credit: RakeshGohel
+  <img width="335" alt="image" src="https://github.com/user-attachments/assets/a582a261-7f62-408c-aee3-429c51f9af40" /> _Credit: RakeshGohel_
 
 
  
